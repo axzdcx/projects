@@ -1,4 +1,4 @@
-## Ciallo～(∠・▽< )⌒☆
+## Ciallo～(∠・ω< )⌒★
 ### Projects
 废物代码QAQ
 
