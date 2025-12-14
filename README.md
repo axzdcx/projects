@@ -1,7 +1,6 @@
 ## Ciallo～(∠・ω< )⌒★
-### Projects
-废物代码QAQ
-
+### About Projects
+作业库，感谢阅读
 
 ### 如何使用
 点击右上角的 "Code" -> "Download ZIP" 获取所有文件。
